@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div  >
       <Head>
-        <title>Is there a vaccine for Covid-19? - Yes</title>
+        <title>🦠 Is there a vaccine for Covid-19? - Yes</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-full h-screen bg-green-500 flex items-center justify-center flex-col">
