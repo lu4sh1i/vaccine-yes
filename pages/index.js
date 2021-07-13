@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="w-full h-screen bg-green-500 flex items-center justify-center flex-col">
-        <h1 className="text-9xl text-center text-green-900">Yes</h1>
+        <h1 className="text-9xl text-center text-green-900">Yes it is</h1>
         <footer className="grid justify-center pt-20 pb-5 absolute bottom-2">
             <p className="text-base text-green-900">
               Created by{" "}
